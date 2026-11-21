@@ -1,0 +1,6 @@
+{
+  "name": "DrVijayas ToothSpa",
+  "description": "Luxury dental wellness clinic inside Mantri Square Mall, Seshadripuram, Bengaluru. Book gentle dental consultations, teeth cleaning, scaling, fillings, and preventive care online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
